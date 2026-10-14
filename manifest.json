@@ -28,11 +28,20 @@
   },
   {
     "id": "8dd9fee4",
-    "title": "Устав внутренней службы",
-    "category": "military",
-    "document": "docs/military/8dd9fee4.md",
+    "title": "Устав внутренней службы — предыдущая редакция",
+    "category": "earlier",
+    "document": "docs/earlier/8dd9fee4.md",
     "source": "sources/attachments/8dd9fee4.txt",
     "sha256": "35a6335225f73ae5ce10840a7940a3fecc57ff74f2f673dd2f45457fa95f09c6",
+    "identical_to": null
+  },
+  {
+    "id": "1de26134",
+    "title": "Устав внутренней службы — обновлённая редакция пользователя",
+    "category": "military",
+    "document": "docs/military/1de26134.md",
+    "source": "sources/attachments/1de26134.txt",
+    "sha256": "5333221ba617c2a93fae07387a2c11266b0c46cf90d3f3ac9aaa47b3099a2b88",
     "identical_to": null
   },
   {
