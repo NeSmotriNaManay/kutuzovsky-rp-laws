@@ -67,3 +67,10 @@
 
 
 Все упомянутые выше файлы исходного снимка находятся в `sources/snapshot/`. Новые вложения перечислены в `manifest.json`.
+
+
+## Новые документы от 17.10.2026
+
+Рабочие источники: docs/codes/6c67fbe0.md, docs/codes/557b2009.md, docs/codes/6b70bcac.md, docs/laws/d7b145dd.md, docs/laws/9bf15c2f.md, docs/laws/a62a928d.md, docs/laws/d5436eb5.md, docs/laws/a8bebbda.md, docs/laws/b26baee5.md, docs/laws/f7709d65.md, docs/laws/abd5afc7.md, docs/laws/7f3c8402.md, docs/codes/a5678cae.md.
+
+См. changes/2026-10-17.md в репозитории. Прежние версии перенесены в docs/earlier, прежние ссылки ведут к выбору новой/старой редакции. Новый КоАП не получен; два вложения ФСО идентичны. Не выдавать прежний КоАП за обновлённый 17.10.2026. Официальное вступление редакций в силу отдельно не проверено.

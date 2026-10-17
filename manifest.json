@@ -199,12 +199,13 @@
   },
   {
     "id": "20d9f40e",
-    "title": "Закон о полиции",
-    "category": "laws",
-    "document": "docs/laws/20d9f40e.md",
+    "title": "Закон о полиции — предыдущая редакция",
+    "category": "earlier",
+    "document": "docs/earlier/20d9f40e.md",
     "source": "sources/attachments/20d9f40e.txt",
     "sha256": "9d06bb2a1eb7412285c92a1d01bc39a1b041ed0d8ab120e838c3e1712687afac",
-    "identical_to": null
+    "identical_to": null,
+    "superseded_by": "d5436eb5"
   },
   {
     "id": "c553787d",
@@ -244,21 +245,23 @@
   },
   {
     "id": "9cd971c2",
-    "title": "Закон о государственных территориях РО",
-    "category": "laws",
-    "document": "docs/laws/9cd971c2.md",
+    "title": "Закон о государственных территориях РО — предыдущая редакция",
+    "category": "earlier",
+    "document": "docs/earlier/9cd971c2.md",
     "source": "sources/attachments/9cd971c2.txt",
     "sha256": "4a640fabaecee59d7921a6314efb87fa771ba2b4a7730734843b19c2ade4379f",
-    "identical_to": null
+    "identical_to": null,
+    "superseded_by": "d7b145dd"
   },
   {
     "id": "56f7c461",
-    "title": "Правила дорожного движения",
-    "category": "codes",
-    "document": "docs/codes/56f7c461.md",
+    "title": "Правила дорожного движения — предыдущая редакция",
+    "category": "earlier",
+    "document": "docs/earlier/56f7c461.md",
     "source": "sources/attachments/56f7c461.txt",
     "sha256": "1232c31d1563eb0af0bc450ca9e071fa8e41ad7860c050b13213627878fffae0",
-    "identical_to": null
+    "identical_to": null,
+    "superseded_by": "6b70bcac"
   },
   {
     "id": "d0b96404",
@@ -289,21 +292,23 @@
   },
   {
     "id": "f893d7b4",
-    "title": "Процессуальный кодекс РО",
-    "category": "codes",
-    "document": "docs/codes/f893d7b4.md",
+    "title": "Процессуальный кодекс РО — предыдущая редакция",
+    "category": "earlier",
+    "document": "docs/earlier/f893d7b4.md",
     "source": "sources/attachments/f893d7b4.txt",
     "sha256": "da640916ab82bba5612aa5a207a5c18ec002e40ff3106dd254b2568e44c3ddc9",
-    "identical_to": null
+    "identical_to": null,
+    "superseded_by": "557b2009"
   },
   {
     "id": "c61b91bc",
-    "title": "Уголовный кодекс РО",
-    "category": "codes",
-    "document": "docs/codes/c61b91bc.md",
+    "title": "Уголовный кодекс РО — предыдущая редакция",
+    "category": "earlier",
+    "document": "docs/earlier/c61b91bc.md",
     "source": "sources/attachments/c61b91bc.txt",
     "sha256": "1673892d572efdac4a324f5d28a7db6c992da627893bbe6923a3fb834ff86249",
-    "identical_to": null
+    "identical_to": null,
+    "superseded_by": "6c67fbe0"
   },
   {
     "id": "a4c85ebb",
@@ -325,30 +330,33 @@
   },
   {
     "id": "a5412c8f",
-    "title": "Кодекс этики и служебного поведения государственных служащих",
-    "category": "codes",
-    "document": "docs/codes/a5412c8f.md",
+    "title": "Кодекс этики и служебного поведения государственных служащих — предыдущая редакция",
+    "category": "earlier",
+    "document": "docs/earlier/a5412c8f.md",
     "source": "sources/attachments/a5412c8f.txt",
     "sha256": "a9cd310c8fdffb4a5495445b21f99db7a807f38ca530bc9d728268aa737edb22",
-    "identical_to": null
+    "identical_to": null,
+    "superseded_by": "a5678cae"
   },
   {
     "id": "29007763",
-    "title": "Закон о политических партиях",
-    "category": "laws",
-    "document": "docs/laws/29007763.md",
+    "title": "Закон о политических партиях — предыдущая редакция",
+    "category": "earlier",
+    "document": "docs/earlier/29007763.md",
     "source": "sources/attachments/29007763.txt",
     "sha256": "cc13463c729cb2c87d9e3a5255721f0b1601ff35c6a3e1234a263c66126af91b",
-    "identical_to": null
+    "identical_to": null,
+    "superseded_by": "9bf15c2f"
   },
   {
     "id": "ec95793b",
-    "title": "Закон о Федеральной службе охраны РО",
-    "category": "laws",
-    "document": "docs/laws/ec95793b.md",
+    "title": "Закон о Федеральной службе охраны РО — предыдущая редакция",
+    "category": "earlier",
+    "document": "docs/earlier/ec95793b.md",
     "source": "sources/attachments/ec95793b.txt",
     "sha256": "56a7d30f93857814949247dc6a8c2d1c371a76d407ca6da4d7c13c73d6bf92bf",
-    "identical_to": null
+    "identical_to": null,
+    "superseded_by": "a62a928d"
   },
   {
     "id": "237a37a1",
@@ -397,12 +405,13 @@
   },
   {
     "id": "e6198a99",
-    "title": "Закон о государственной службе РО",
-    "category": "laws",
-    "document": "docs/laws/e6198a99.md",
+    "title": "Закон о государственной службе РО — предыдущая редакция",
+    "category": "earlier",
+    "document": "docs/earlier/e6198a99.md",
     "source": "sources/attachments/e6198a99.txt",
     "sha256": "7440a8c7f043cb15b5254459ecdd04be98593ba7da2ac65f57fca89a170e0402",
-    "identical_to": null
+    "identical_to": null,
+    "superseded_by": "abd5afc7"
   },
   {
     "id": "5df3eab4",
@@ -448,5 +457,159 @@
     "source": "sources/attachments/cd05d5d8.txt",
     "sha256": "eea56ccae1e02117459c50426fe7ac04ac7b638c0aeb7efd7db9cc5522a0fe4b",
     "identical_to": null
+  },
+  {
+    "id": "6c67fbe0",
+    "title": "Уголовный кодекс РО",
+    "category": "codes",
+    "document": "docs/codes/6c67fbe0.md",
+    "source": "sources/attachments/6c67fbe0.txt",
+    "sha256": "0d9de4c7b24aba854aef7592ee2422fb76c25cb00bc7f36e1163a263f5ca9e67",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": "c61b91bc"
+  },
+  {
+    "id": "557b2009",
+    "title": "Процессуальный кодекс РО",
+    "category": "codes",
+    "document": "docs/codes/557b2009.md",
+    "source": "sources/attachments/557b2009.txt",
+    "sha256": "8d2308a2d3f3198a365c87df87787b89ca249e721b5854f8f1757666de6f9e0e",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": "f893d7b4"
+  },
+  {
+    "id": "6b70bcac",
+    "title": "Правила дорожного движения РО",
+    "category": "codes",
+    "document": "docs/codes/6b70bcac.md",
+    "source": "sources/attachments/6b70bcac.txt",
+    "sha256": "577bd71410916071fde2be560dfd7585fc54948018bd5d44e6c50c10d8edd25d",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": "56f7c461"
+  },
+  {
+    "id": "d7b145dd",
+    "title": "Закон о государственных территориях РО",
+    "category": "laws",
+    "document": "docs/laws/d7b145dd.md",
+    "source": "sources/attachments/d7b145dd.txt",
+    "sha256": "be846ee8bffa6093b373af496719ea5189e0efceea90e5d58964d20807f8b7c9",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": "9cd971c2"
+  },
+  {
+    "id": "9bf15c2f",
+    "title": "Закон о политических партиях",
+    "category": "laws",
+    "document": "docs/laws/9bf15c2f.md",
+    "source": "sources/attachments/9bf15c2f.txt",
+    "sha256": "61673b7031d6cc5d85aaf4cdd9d09c748bc6fa2a09f3a734ff34097aaeb8f632",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": "29007763"
+  },
+  {
+    "id": "a62a928d",
+    "title": "Закон о Федеральной службе охраны РО",
+    "category": "laws",
+    "document": "docs/laws/a62a928d.md",
+    "source": "sources/attachments/a62a928d.txt",
+    "sha256": "25fbf4491897a3477c1d9d5fdcb08b279cf934c9c9b614204e3db66c161fbd8b",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": "ec95793b"
+  },
+  {
+    "id": "c2288fe9",
+    "title": "Закон о Федеральной службе охраны РО — повторное вложение",
+    "category": "laws",
+    "document": "docs/laws/c2288fe9.md",
+    "source": "sources/attachments/c2288fe9.txt",
+    "sha256": "25fbf4491897a3477c1d9d5fdcb08b279cf934c9c9b614204e3db66c161fbd8b",
+    "identical_to": "a62a928d",
+    "received": "2026-10-17",
+    "supersedes": null
+  },
+  {
+    "id": "d5436eb5",
+    "title": "Закон о полиции",
+    "category": "laws",
+    "document": "docs/laws/d5436eb5.md",
+    "source": "sources/attachments/d5436eb5.txt",
+    "sha256": "908d58f9d176559bf37ed236f95e72d5ac5e33e0675a8d140cc3c13721a16cb9",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": "20d9f40e"
+  },
+  {
+    "id": "a8bebbda",
+    "title": "Закон о Государственной инспекции безопасности дорожного движения",
+    "category": "laws",
+    "document": "docs/laws/a8bebbda.md",
+    "source": "sources/attachments/a8bebbda.txt",
+    "sha256": "b562e4414da07439566efea573d70c5784455826c3540aa52a931c6f34563611",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": null
+  },
+  {
+    "id": "b26baee5",
+    "title": "Закон о Следственном комитете РО",
+    "category": "laws",
+    "document": "docs/laws/b26baee5.md",
+    "source": "sources/attachments/b26baee5.txt",
+    "sha256": "bb59901e4030dde34ba29a2618e2010567ff6f525d3e1a504191b311f413bdb1",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": null
+  },
+  {
+    "id": "f7709d65",
+    "title": "Закон о прокуратуре РО",
+    "category": "laws",
+    "document": "docs/laws/f7709d65.md",
+    "source": "sources/attachments/f7709d65.txt",
+    "sha256": "372d7ac36a8f8c9420194e6640554e6f53912d24024a659e69d64c313bfc7554",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": null
+  },
+  {
+    "id": "abd5afc7",
+    "title": "Закон о государственной службе РО",
+    "category": "laws",
+    "document": "docs/laws/abd5afc7.md",
+    "source": "sources/attachments/abd5afc7.txt",
+    "sha256": "3a225c8d312c4b625ce8330648650596db129edaefbff127c3c8f480cd33400b",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": "e6198a99"
+  },
+  {
+    "id": "7f3c8402",
+    "title": "Закон о выборах Премьер-министра РО",
+    "category": "laws",
+    "document": "docs/laws/7f3c8402.md",
+    "source": "sources/attachments/7f3c8402.txt",
+    "sha256": "06d6725ebc80bf590cb77a3c47369932e3517d409aec2cc5a5b494eaf9eddeac",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": null
+  },
+  {
+    "id": "a5678cae",
+    "title": "Кодекс этики и служебного поведения государственных служащих РО",
+    "category": "codes",
+    "document": "docs/codes/a5678cae.md",
+    "source": "sources/attachments/a5678cae.txt",
+    "sha256": "a02f5d5b361e58937a507bcabe5f381be87e1bdd65d9475681c21443eaf8e4a8",
+    "identical_to": null,
+    "received": "2026-10-17",
+    "supersedes": "a5412c8f"
   }
 ]
