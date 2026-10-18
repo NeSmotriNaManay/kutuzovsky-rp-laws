@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-18",
+  "source_revision": "d8f615e5864a10d07108ab1876c98783d0451508",
+  "files": {
+    ".gitattributes": {
+      "bytes": 75,
+      "sha256": "44a2e0532993b5c2f04853d8f170b9f20933902a67c7ee844dff83b584106051"
+    },
+    "balance.md": {
+      "bytes": 5761,
+      "sha256": "c48147cccac442dbe2823758163c3f80b0fe5be35494c9e94a8d448ee2a1211f"
+    },
+    "CHANGELOG.md": {
+      "bytes": 4339,
+      "sha256": "993db46992bf75c50d3fb71a1003665a0e1cec9b4a5702eaef24c70f7a024c9c"
+    },
+    "dispatch.md": {
+      "bytes": 2890,
+      "sha256": "c2a2e1197b081514b949a8dab83daa8c8b9c1601e11b137fb910ca4b4e7de245"
+    },
+    "downloads/handbook.pdf": {
+      "bytes": 141624,
+      "sha256": "e3c58cbeea7a259873efe63583120289145feea096619239b575c4d2efba5186"
+    },
+    "downloads/officer-study.pdf": {
+      "bytes": 111529,
+      "sha256": "c92769be3d1ea6575b7a26db616c6547ec7d97b9ab569a5bcb49e570ffe4d3d3"
+    },
+    "downloads/officer-tests.pdf": {
+      "bytes": 131053,
+      "sha256": "9a236a4a55ab31622392dadec093d11212e58de366595af73756e05ac6c9b32f"
+    },
+    "downloads/patrol-study.pdf": {
+      "bytes": 114365,
+      "sha256": "0a5574eb5a1945e7b627c6e420317ab6bb527850c96ba7fb5f0251228caa3f4b"
+    },
+    "downloads/patrol-tests.pdf": {
+      "bytes": 132045,
+      "sha256": "3a69a993b62e30a272ddd39316be28b5263c64ce670d7e922687810e72250ac4"
+    },
+    "downloads/proficiency-study.pdf": {
+      "bytes": 106867,
+      "sha256": "c8bd4bd16cfcdda14dae1e67471edfc8326abfd873e687f6e9790a325f6ad034"
+    },
+    "downloads/proficiency-tests.pdf": {
+      "bytes": 124137,
+      "sha256": "5dda36a9a6adcbca367c7eb33b1bc45c100bb3d7991b197f986f93e27af9d35c"
+    },
+    "downloads/soldier-guide.pdf": {
+      "bytes": 89024,
+      "sha256": "3dcc477dc95f2fbe5cf05f9671ad4f7fff81e04ef2880067ebd0aa5f5399ed23"
+    },
+    "handbook.md": {
+      "bytes": 68348,
+      "sha256": "05986fdad4c591c3dc94901f80434e986276be2ef5e1752e0cf921fea59ec600"
+    },
+    "images/admission.png": {
+      "bytes": 1941707,
+      "sha256": "2836a4875bff29f6c10a5c7dd54b598524209346f6da1d5b561066c8c3e147c6"
+    },
+    "images/events.png": {
+      "bytes": 2245190,
+      "sha256": "bd9c37ea21fb3350e6997fc5f7538ae27a26b2a82bf02a76315e6f1b345165aa"
+    },
+    "images/points.png": {
+      "bytes": 2101264,
+      "sha256": "3d717f83552832d70bb3aa7f56022b3fad84b30050565e1052c77f72884e6f9b"
+    },
+    "images/promotion.png": {
+      "bytes": 1876153,
+      "sha256": "b8f875a24c7dccbd65bd3875b84d47b8db8600a399e5b62d40d5c6d5880b9a23"
+    },
+    "officer-bank.json": {
+      "bytes": 39310,
+      "sha256": "279707328ae4bd67a67c7619c2b24018d7a29541fb5824b215ef9058d5fbc4d9"
+    },
+    "officer-study.md": {
+      "bytes": 23831,
+      "sha256": "f2380a87c38f7b9400a18e618b260bff2f159711bed6264f06f8b5c342d5545c"
+    },
+    "officer-tests.md": {
+      "bytes": 34069,
+      "sha256": "3279d9c09201cf2eb6f263aa6a39a6dc201e08ac37bfed1953387bdfffe394da"
+    },
+    "patrol-bank.json": {
+      "bytes": 39850,
+      "sha256": "06b2780f1579b7acf868d1ca648b3fdeccec9f91e579f5bd5825034393cc3a57"
+    },
+    "patrol-study.md": {
+      "bytes": 27129,
+      "sha256": "ae887c09128bb80d39e2544602763e946a81e4167b5be4dffc732267b69b24ef"
+    },
+    "patrol-tests.md": {
+      "bytes": 34610,
+      "sha256": "edac54f83997997d2d098cecad44f27a5e6b28ae576afec372442daf4ef4a095"
+    },
+    "proficiency-bank.json": {
+      "bytes": 33354,
+      "sha256": "8a63a5aec3eab9b53782761da8fe9bc3c8b0277b64122ad34141fdc18a9f88f5"
+    },
+    "proficiency-practice.md": {
+      "bytes": 11351,
+      "sha256": "f528a32ae8595d55a3fde0861bf86bff421d41abd8915b25412aa845fbc49ed4"
+    },
+    "proficiency-study.md": {
+      "bytes": 22683,
+      "sha256": "bb2643afb92a1675e7d533e91b8b15411190d14e2ce46b35c41a0518f27f1a67"
+    },
+    "proficiency-tests.md": {
+      "bytes": 29606,
+      "sha256": "66f3c6c4eae9f9643e16caea584a1405e9d834640bbad6a568cd3d79cb566142"
+    },
+    "README.md": {
+      "bytes": 8635,
+      "sha256": "232bec07d6c847e26c3f7b77a10ffe39ad6fefd1d972b0dc8d25862c91e5ba6b"
+    },
+    "regulation.md": {
+      "bytes": 31060,
+      "sha256": "1a5996a6a37f6174f0a6d0f38e0aecbeb5e04494aa01880fbbb573ebbde87b7d"
+    },
+    "reports.md": {
+      "bytes": 4083,
+      "sha256": "5e452f4804acd72de23566931bfeb728df6baa53438153daf602ae4c783c865c"
+    },
+    "soldier-guide.md": {
+      "bytes": 3713,
+      "sha256": "c8e6d1aaa45ba4e4fa419caa8f47e054d810d5cee0dd882e6139358a64bddea4"
+    },
+    "sources.md": {
+      "bytes": 2727,
+      "sha256": "53cba6a5b446f128ce219245d9d2c4805ca071dfb05aeb974ca31820b2a8140a"
+    },
+    "study.md": {
+      "bytes": 852,
+      "sha256": "413e6e7465fd32159be3dfec7e97470c3d01eee58dbc22cd2d7cef1cde129db6"
+    },
+    "testing.md": {
+      "bytes": 21647,
+      "sha256": "839f3e044562b7d5d8c301110948cf1188ca46c80272f2f287356a55f175e389"
+    }
+  }
+}
