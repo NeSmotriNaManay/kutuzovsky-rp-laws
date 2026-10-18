@@ -17,6 +17,10 @@
       "bytes": 2890,
       "sha256": "c2a2e1197b081514b949a8dab83daa8c8b9c1601e11b137fb910ca4b4e7de245"
     },
+    "downloads/Материалы для дежурного по КПП.pdf": {
+      "bytes": 98227,
+      "sha256": "7b056b4778e161a211545702446704c3cb6b8f314b7a782a0240e543287e2105"
+    },
     "downloads/Материалы для офицера.pdf": {
       "bytes": 111529,
       "sha256": "c92769be3d1ea6575b7a26db616c6547ec7d97b9ab569a5bcb49e570ffe4d3d3"
@@ -34,8 +38,12 @@
       "sha256": "3dcc477dc95f2fbe5cf05f9671ad4f7fff81e04ef2880067ebd0aa5f5399ed23"
     },
     "downloads/Руководство ВПС.pdf": {
-      "bytes": 141624,
-      "sha256": "e3c58cbeea7a259873efe63583120289145feea096619239b575c4d2efba5186"
+      "bytes": 153259,
+      "sha256": "dfcb91052d10eecd3df0c5b92966be1b1816f5b839e69368fcab26a60d7ff747"
+    },
+    "downloads/Тест дежурного по КПП.pdf": {
+      "bytes": 100753,
+      "sha256": "4365f7de9af070265fde8c4d551c870502a67695b1728b750284ae10e75910e6"
     },
     "downloads/Тест офицера.pdf": {
       "bytes": 131053,
@@ -48,6 +56,10 @@
     "downloads/Тест профпригодности.pdf": {
       "bytes": 124137,
       "sha256": "5dda36a9a6adcbca367c7eb33b1bc45c100bb3d7991b197f986f93e27af9d35c"
+    },
+    "downloads/Устный экзамен дежурного по КПП.pdf": {
+      "bytes": 100603,
+      "sha256": "d96e7361ca1c123d16e35c2a666fa0e2f1d6c3aa06455ac342fa8a125502c163"
     },
     "handbook.md": {
       "bytes": 178,
@@ -98,8 +110,8 @@
       "sha256": "ff2ca5338ecf45f0df10b965035723e0f9447273c5d71240c201fe418d7aa8a6"
     },
     "README.md": {
-      "bytes": 11852,
-      "sha256": "61222cdf9129e2ac701821f262cb405f15c44254a7fb471e069e3c040db31a7f"
+      "bytes": 14252,
+      "sha256": "e943b29f956ff956034902ebb28be83c0bdff8bd2727f398f503361818afa51d"
     },
     "regulation.md": {
       "bytes": 31197,
@@ -114,8 +126,8 @@
       "sha256": "796cc1b25e43f544c58d3ce92361dcfc7bbc3792ab2ac9bf76e56eef88aa9f83"
     },
     "sources.md": {
-      "bytes": 2727,
-      "sha256": "53cba6a5b446f128ce219245d9d2c4805ca071dfb05aeb974ca31820b2a8140a"
+      "bytes": 2992,
+      "sha256": "97271bce9b34cb1dd1680f6da47895d169775d56dcd9f1921f88542d5dd3deb9"
     },
     "study.md": {
       "bytes": 194,
@@ -142,8 +154,8 @@
       "sha256": "8a63a5aec3eab9b53782761da8fe9bc3c8b0277b64122ad34141fdc18a9f88f5"
     },
     "Материалы для дежурного по КПП.md": {
-      "bytes": 11195,
-      "sha256": "6b5940c35a0317398274653f35259c82667ac0d3bb79e4329c6dc6803fd76f06"
+      "bytes": 9236,
+      "sha256": "f4388cb91f6a6aaf76e21762def0f27975dd21df518dc97273a8abfa2ff7fdb5"
     },
     "Материалы для офицера.md": {
       "bytes": 24105,
@@ -162,16 +174,16 @@
       "sha256": "c8e6d1aaa45ba4e4fa419caa8f47e054d810d5cee0dd882e6139358a64bddea4"
     },
     "Порядок проведения тестов.md": {
-      "bytes": 22212,
-      "sha256": "a57f45a26dc87dc212007792fef437f309318236cdaa31541ca5b06a456eb81d"
+      "bytes": 20670,
+      "sha256": "bbfb064dca2a145c138a93885a28dccc2f881c44ef11e391fba064048333a29f"
     },
     "Руководство ВПС.md": {
-      "bytes": 69050,
-      "sha256": "21e2da7883ffd01dab9a8821aa31b2fc74acfbaed172bd68d135b2c89e602856"
+      "bytes": 67508,
+      "sha256": "602bf6664a82f676d63cf26c130b87cd4b0a6d4f320915fe9da4426fe29b4e13"
     },
     "Тест дежурного по КПП.md": {
-      "bytes": 13631,
-      "sha256": "a3b151a60e2f5f31bffa053b6f3ccea47b4e1b794c6d8d6796b8170700965da8"
+      "bytes": 12145,
+      "sha256": "a1dd5c4518be3c84d461973b9151a19866274aa53d20a7085137cae2f1ce8859"
     },
     "Тест офицера.md": {
       "bytes": 34343,
@@ -188,6 +200,10 @@
     "Устные ситуации профпригодности.md": {
       "bytes": 11351,
       "sha256": "f528a32ae8595d55a3fde0861bf86bff421d41abd8915b25412aa845fbc49ed4"
+    },
+    "Устный экзамен дежурного по КПП.md": {
+      "bytes": 15217,
+      "sha256": "799d5d3091d75115d846804665f335097234b8727e2d6081ff65e694562b3105"
     },
     "Учебные материалы.md": {
       "bytes": 1583,
