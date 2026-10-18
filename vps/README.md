@@ -2,7 +2,7 @@
 
 **Баллы + обязательная служба + проверенные знания.** Редакция от 18.10.2026 с последними поправками. Это предложение для утверждения руководством; дата запуска объявляется отдельно. Исходные игровые законы не изменены.
 
-**[Скачать весь комплект ZIP](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/vps-complete.zip)** · [Краткая памятка](soldier-guide.md) · [Полный регламент](regulation.md) · [Расчёт баланса](balance.md)
+**[Скачать весь комплект ZIP](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/%D0%92%D0%9F%D0%A1%20-%20%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82.zip)** · [Краткая памятка](%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0%20%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D1%83.md) · [Полный регламент](regulation.md) · [Расчёт баланса](balance.md)
 
 ## Скачать тесты и материалы
 
@@ -10,18 +10,22 @@ PDF можно сохранить с открывшейся страницы. В
 
 | Комплект | Скачать PDF | Читать / копировать |
 |---|---|---|
-| Тесты патруля — 30 вопросов с ответами | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/patrol-tests.pdf) | [Открыть текст](patrol-tests.md) |
-| Материалы для изучения — патруль | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/patrol-study.pdf) | [Открыть текст](patrol-study.md) |
-| Тесты офицеров — 30 вопросов с ответами | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/officer-tests.pdf) | [Открыть текст](officer-tests.md) |
-| Материалы для изучения — офицер | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/officer-study.pdf) | [Открыть текст](officer-study.md) |
-| Профпригодность — 24 вопроса с ответами | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/proficiency-tests.pdf) | [Открыть текст](proficiency-tests.md) |
-| Материалы для изучения — профпригодность | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/proficiency-study.pdf) | [Открыть текст](proficiency-study.md) |
-| Памятка солдату — одна страница | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/soldier-guide.pdf) | [Открыть текст](soldier-guide.md) |
-| Руководство: регламент, проверки, устные сценки, отчёты | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/handbook.pdf) | [Открыть текст](handbook.md) |
+| Тесты патруля — 30 вопросов с ответами | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/%D0%A2%D0%B5%D1%81%D1%82%20%D0%BF%D0%B0%D1%82%D1%80%D1%83%D0%BB%D1%8F.pdf) | [Открыть текст](%D0%A2%D0%B5%D1%81%D1%82%20%D0%BF%D0%B0%D1%82%D1%80%D1%83%D0%BB%D1%8F.md) |
+| Материалы для изучения — патруль | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%B0%D1%82%D1%80%D1%83%D0%BB%D1%8F.pdf) | [Открыть текст](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%B0%D1%82%D1%80%D1%83%D0%BB%D1%8F.md) |
+| Тесты офицеров — 30 вопросов с ответами | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/%D0%A2%D0%B5%D1%81%D1%82%20%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%B0.pdf) | [Открыть текст](%D0%A2%D0%B5%D1%81%D1%82%20%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%B0.md) |
+| Материалы для изучения — офицер | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%B0.pdf) | [Открыть текст](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%B0.md) |
+| Профпригодность — 24 вопроса с ответами | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/%D0%A2%D0%B5%D1%81%D1%82%20%D0%BF%D1%80%D0%BE%D1%84%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf) | [Открыть текст](%D0%A2%D0%B5%D1%81%D1%82%20%D0%BF%D1%80%D0%BE%D1%84%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8.md) |
+| Материалы для изучения — профпригодность | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D1%84%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8.pdf) | [Открыть текст](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%BF%D0%BE%20%D0%BF%D1%80%D0%BE%D1%84%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8.md) |
+| Памятка солдату — одна страница | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0%20%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D1%83.pdf) | [Открыть текст](%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0%20%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D1%83.md) |
+| Руководство: регламент, проверки, устные сценки, отчёты | [Скачать](https://github.com/NeSmotriNaManay/kutuzovsky-rp-laws/raw/refs/heads/main/vps/downloads/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D0%92%D0%9F%D0%A1.pdf) | [Открыть текст](%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D0%92%D0%9F%D0%A1.md) |
 
-**Отдельно:** [три устные ситуации профпригодности](proficiency-practice.md) · [формы Discord](reports.md) · [настройки и порядок всех аттестаций](testing.md) · [предлагаемый порядок выездов](dispatch.md).
+**Отдельно:** [три устные ситуации профпригодности](%D0%A3%D1%81%D1%82%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BF%D1%80%D0%BE%D1%84%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8.md) · [формы Discord](reports.md) · [настройки и порядок всех аттестаций](%D0%9F%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2.md) · [предлагаемый порядок выездов](dispatch.md).
 
-Для будущего бота/переноса: [патруль JSON](patrol-bank.json), [офицер JSON](officer-bank.json), [профпригодность JSON](proficiency-bank.json). Это структурированные банки, не заявленный штатный формат импорта Online Test Pad. Тесты в аккаунте сервиса автоматически не созданы.
+Для будущего бота/переноса: [патруль JSON](%D0%91%D0%B0%D0%BD%D0%BA%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%BF%D0%B0%D1%82%D1%80%D1%83%D0%BB%D1%8F.json), [офицер JSON](%D0%91%D0%B0%D0%BD%D0%BA%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%BE%D1%84%D0%B8%D1%86%D0%B5%D1%80%D0%B0.json), [профпригодность JSON](%D0%91%D0%B0%D0%BD%D0%BA%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%BF%D1%80%D0%BE%D1%84%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8.json). Это структурированные банки, не заявленный штатный формат импорта Online Test Pad. Тесты в аккаунте сервиса автоматически не созданы.
+
+## Дежурный по КПП
+
+[Отдельный тест: 10 вопросов с ответами](%D0%A2%D0%B5%D1%81%D1%82%20%D0%B4%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%20%D0%9A%D0%9F%D0%9F.md) · [Материалы и две практические ситуации](%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%B4%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%20%D0%9A%D0%9F%D0%9F.md) · [Банк вопросов JSON](%D0%91%D0%B0%D0%BD%D0%BA%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D0%BE%D0%B2%20%D0%B4%D0%B5%D0%B6%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%20%D0%9A%D0%9F%D0%9F.json). Тест и материалы доступны в текстовом виде; входят в общий ZIP. Это подборка из офицерского банка, а не 10 новых уникальных вопросов.
 
 ## Что изменилось
 

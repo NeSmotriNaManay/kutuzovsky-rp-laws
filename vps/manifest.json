@@ -1,6 +1,5 @@
 {
   "date": "2026-10-18",
-  "source_revision": "d8f615e5864a10d07108ab1876c98783d0451508",
   "files": {
     ".gitattributes": {
       "bytes": 75,
@@ -11,48 +10,48 @@
       "sha256": "c48147cccac442dbe2823758163c3f80b0fe5be35494c9e94a8d448ee2a1211f"
     },
     "CHANGELOG.md": {
-      "bytes": 4339,
-      "sha256": "993db46992bf75c50d3fb71a1003665a0e1cec9b4a5702eaef24c70f7a024c9c"
+      "bytes": 4910,
+      "sha256": "92425f2cc1e08fda640a22b304184d37509f7912266a36be38e315939c217903"
     },
     "dispatch.md": {
       "bytes": 2890,
       "sha256": "c2a2e1197b081514b949a8dab83daa8c8b9c1601e11b137fb910ca4b4e7de245"
     },
-    "downloads/handbook.pdf": {
-      "bytes": 141624,
-      "sha256": "e3c58cbeea7a259873efe63583120289145feea096619239b575c4d2efba5186"
-    },
-    "downloads/officer-study.pdf": {
+    "downloads/Материалы для офицера.pdf": {
       "bytes": 111529,
       "sha256": "c92769be3d1ea6575b7a26db616c6547ec7d97b9ab569a5bcb49e570ffe4d3d3"
     },
-    "downloads/officer-tests.pdf": {
-      "bytes": 131053,
-      "sha256": "9a236a4a55ab31622392dadec093d11212e58de366595af73756e05ac6c9b32f"
-    },
-    "downloads/patrol-study.pdf": {
+    "downloads/Материалы для патруля.pdf": {
       "bytes": 114365,
       "sha256": "0a5574eb5a1945e7b627c6e420317ab6bb527850c96ba7fb5f0251228caa3f4b"
     },
-    "downloads/patrol-tests.pdf": {
-      "bytes": 132045,
-      "sha256": "3a69a993b62e30a272ddd39316be28b5263c64ce670d7e922687810e72250ac4"
-    },
-    "downloads/proficiency-study.pdf": {
+    "downloads/Материалы по профпригодности.pdf": {
       "bytes": 106867,
       "sha256": "c8bd4bd16cfcdda14dae1e67471edfc8326abfd873e687f6e9790a325f6ad034"
     },
-    "downloads/proficiency-tests.pdf": {
-      "bytes": 124137,
-      "sha256": "5dda36a9a6adcbca367c7eb33b1bc45c100bb3d7991b197f986f93e27af9d35c"
-    },
-    "downloads/soldier-guide.pdf": {
+    "downloads/Памятка солдату.pdf": {
       "bytes": 89024,
       "sha256": "3dcc477dc95f2fbe5cf05f9671ad4f7fff81e04ef2880067ebd0aa5f5399ed23"
     },
+    "downloads/Руководство ВПС.pdf": {
+      "bytes": 141624,
+      "sha256": "e3c58cbeea7a259873efe63583120289145feea096619239b575c4d2efba5186"
+    },
+    "downloads/Тест офицера.pdf": {
+      "bytes": 131053,
+      "sha256": "9a236a4a55ab31622392dadec093d11212e58de366595af73756e05ac6c9b32f"
+    },
+    "downloads/Тест патруля.pdf": {
+      "bytes": 132045,
+      "sha256": "3a69a993b62e30a272ddd39316be28b5263c64ce670d7e922687810e72250ac4"
+    },
+    "downloads/Тест профпригодности.pdf": {
+      "bytes": 124137,
+      "sha256": "5dda36a9a6adcbca367c7eb33b1bc45c100bb3d7991b197f986f93e27af9d35c"
+    },
     "handbook.md": {
-      "bytes": 68348,
-      "sha256": "05986fdad4c591c3dc94901f80434e986276be2ef5e1752e0cf921fea59ec600"
+      "bytes": 178,
+      "sha256": "ce6844447b98e48f37f474e6ad53ce23314c4ba270e2cb3e11fbb88968744c17"
     },
     "images/admission.png": {
       "bytes": 1941707,
@@ -70,73 +69,129 @@
       "bytes": 1876153,
       "sha256": "b8f875a24c7dccbd65bd3875b84d47b8db8600a399e5b62d40d5c6d5880b9a23"
     },
-    "officer-bank.json": {
-      "bytes": 39310,
-      "sha256": "279707328ae4bd67a67c7619c2b24018d7a29541fb5824b215ef9058d5fbc4d9"
-    },
     "officer-study.md": {
-      "bytes": 23831,
-      "sha256": "f2380a87c38f7b9400a18e618b260bff2f159711bed6264f06f8b5c342d5545c"
+      "bytes": 222,
+      "sha256": "9e3ef0cc23af231560d8c8d02f2e18c7e4347e4d33941c32a24258a935deb3a1"
     },
     "officer-tests.md": {
-      "bytes": 34069,
-      "sha256": "3279d9c09201cf2eb6f263aa6a39a6dc201e08ac37bfed1953387bdfffe394da"
-    },
-    "patrol-bank.json": {
-      "bytes": 39850,
-      "sha256": "06b2780f1579b7acf868d1ca648b3fdeccec9f91e579f5bd5825034393cc3a57"
+      "bytes": 154,
+      "sha256": "02db56af2a0658d0e8479831b9512436c8375175761579b0081ba91332048584"
     },
     "patrol-study.md": {
-      "bytes": 27129,
-      "sha256": "ae887c09128bb80d39e2544602763e946a81e4167b5be4dffc732267b69b24ef"
+      "bytes": 222,
+      "sha256": "100d0a33c66120262bf18a8927dd2842b800f164bae4a5728955f1a5631f4c75"
     },
     "patrol-tests.md": {
-      "bytes": 34610,
-      "sha256": "edac54f83997997d2d098cecad44f27a5e6b28ae576afec372442daf4ef4a095"
-    },
-    "proficiency-bank.json": {
-      "bytes": 33354,
-      "sha256": "8a63a5aec3eab9b53782761da8fe9bc3c8b0277b64122ad34141fdc18a9f88f5"
+      "bytes": 154,
+      "sha256": "16314d153aff907f20142c6efbc3362cc81e6d3a68731b4c2b9fd098951445c8"
     },
     "proficiency-practice.md": {
-      "bytes": 11351,
-      "sha256": "f528a32ae8595d55a3fde0861bf86bff421d41abd8915b25412aa845fbc49ed4"
+      "bytes": 302,
+      "sha256": "dea4b69c40529da493e3c671732fa2c518fbface14b9b607dcc6df151fad57e1"
     },
     "proficiency-study.md": {
-      "bytes": 22683,
-      "sha256": "bb2643afb92a1675e7d533e91b8b15411190d14e2ce46b35c41a0518f27f1a67"
+      "bytes": 278,
+      "sha256": "8a3aaa95b7c550f975a2886cbd4c6968f4e5cda1fa7ea5dbd13a46f66a63cf01"
     },
     "proficiency-tests.md": {
-      "bytes": 29606,
-      "sha256": "66f3c6c4eae9f9643e16caea584a1405e9d834640bbad6a568cd3d79cb566142"
+      "bytes": 218,
+      "sha256": "ff2ca5338ecf45f0df10b965035723e0f9447273c5d71240c201fe418d7aa8a6"
     },
     "README.md": {
-      "bytes": 8635,
-      "sha256": "232bec07d6c847e26c3f7b77a10ffe39ad6fefd1d972b0dc8d25862c91e5ba6b"
+      "bytes": 11852,
+      "sha256": "61222cdf9129e2ac701821f262cb405f15c44254a7fb471e069e3c040db31a7f"
     },
     "regulation.md": {
-      "bytes": 31060,
-      "sha256": "1a5996a6a37f6174f0a6d0f38e0aecbeb5e04494aa01880fbbb573ebbde87b7d"
+      "bytes": 31197,
+      "sha256": "157d99b91514a91da882ca7a3a75e5b11ed19f838917c45d97cf2112adfd7f95"
     },
     "reports.md": {
       "bytes": 4083,
       "sha256": "5e452f4804acd72de23566931bfeb728df6baa53438153daf602ae4c783c865c"
     },
     "soldier-guide.md": {
-      "bytes": 3713,
-      "sha256": "c8e6d1aaa45ba4e4fa419caa8f47e054d810d5cee0dd882e6139358a64bddea4"
+      "bytes": 178,
+      "sha256": "796cc1b25e43f544c58d3ce92361dcfc7bbc3792ab2ac9bf76e56eef88aa9f83"
     },
     "sources.md": {
       "bytes": 2727,
       "sha256": "53cba6a5b446f128ce219245d9d2c4805ca071dfb05aeb974ca31820b2a8140a"
     },
     "study.md": {
-      "bytes": 852,
-      "sha256": "413e6e7465fd32159be3dfec7e97470c3d01eee58dbc22cd2d7cef1cde129db6"
+      "bytes": 194,
+      "sha256": "7b48892562b558bfaa3adddc1e3062aa8c867f04ef3276463655ccbfed9f84cd"
     },
     "testing.md": {
-      "bytes": 21647,
-      "sha256": "839f3e044562b7d5d8c301110948cf1188ca46c80272f2f287356a55f175e389"
+      "bytes": 254,
+      "sha256": "d98ae4073387c43b2bb21596f996077d95ecc08a07d7fd9090573750d8ddb9f8"
+    },
+    "Банк вопросов дежурного по КПП.json": {
+      "bytes": 13788,
+      "sha256": "a07491945d1a0f847819a9054f8e42316cfa04058b75ccb57e4cb4be3d1f510a"
+    },
+    "Банк вопросов офицера.json": {
+      "bytes": 39584,
+      "sha256": "9f7ebed6219a6ecf6932ee1bcf59a3ab609b41dd6f315c48a53a44e297f73e14"
+    },
+    "Банк вопросов патруля.json": {
+      "bytes": 39850,
+      "sha256": "06b2780f1579b7acf868d1ca648b3fdeccec9f91e579f5bd5825034393cc3a57"
+    },
+    "Банк вопросов профпригодности.json": {
+      "bytes": 33354,
+      "sha256": "8a63a5aec3eab9b53782761da8fe9bc3c8b0277b64122ad34141fdc18a9f88f5"
+    },
+    "Материалы для дежурного по КПП.md": {
+      "bytes": 11195,
+      "sha256": "6b5940c35a0317398274653f35259c82667ac0d3bb79e4329c6dc6803fd76f06"
+    },
+    "Материалы для офицера.md": {
+      "bytes": 24105,
+      "sha256": "98e603340d40762d59c65d7d478ad2da23fb86ef62d25a3add833d2482a74f3a"
+    },
+    "Материалы для патруля.md": {
+      "bytes": 27129,
+      "sha256": "ae887c09128bb80d39e2544602763e946a81e4167b5be4dffc732267b69b24ef"
+    },
+    "Материалы по профпригодности.md": {
+      "bytes": 22683,
+      "sha256": "bb2643afb92a1675e7d533e91b8b15411190d14e2ce46b35c41a0518f27f1a67"
+    },
+    "Памятка солдату.md": {
+      "bytes": 3713,
+      "sha256": "c8e6d1aaa45ba4e4fa419caa8f47e054d810d5cee0dd882e6139358a64bddea4"
+    },
+    "Порядок проведения тестов.md": {
+      "bytes": 22212,
+      "sha256": "a57f45a26dc87dc212007792fef437f309318236cdaa31541ca5b06a456eb81d"
+    },
+    "Руководство ВПС.md": {
+      "bytes": 69050,
+      "sha256": "21e2da7883ffd01dab9a8821aa31b2fc74acfbaed172bd68d135b2c89e602856"
+    },
+    "Тест дежурного по КПП.md": {
+      "bytes": 13631,
+      "sha256": "a3b151a60e2f5f31bffa053b6f3ccea47b4e1b794c6d8d6796b8170700965da8"
+    },
+    "Тест офицера.md": {
+      "bytes": 34343,
+      "sha256": "91b1d97f740640ed1e06f2eb5582b8a4df8111b295c633c708b6db564358b3af"
+    },
+    "Тест патруля.md": {
+      "bytes": 34610,
+      "sha256": "edac54f83997997d2d098cecad44f27a5e6b28ae576afec372442daf4ef4a095"
+    },
+    "Тест профпригодности.md": {
+      "bytes": 29766,
+      "sha256": "4c24dc5b2b40728e55a51faf01a680d15f2f1045e73f4f1e01f9231b821dfb42"
+    },
+    "Устные ситуации профпригодности.md": {
+      "bytes": 11351,
+      "sha256": "f528a32ae8595d55a3fde0861bf86bff421d41abd8915b25412aa845fbc49ed4"
+    },
+    "Учебные материалы.md": {
+      "bytes": 1583,
+      "sha256": "f84422402b0fb10d6c90aedee07b21c38d12dee1f3a22797841d8ee78895c8a9"
     }
   }
 }
