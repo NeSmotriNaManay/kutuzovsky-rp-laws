@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "files": {
     ".gitattributes": {
       "bytes": 75,
@@ -17,69 +17,9 @@
       "bytes": 2890,
       "sha256": "c2a2e1197b081514b949a8dab83daa8c8b9c1601e11b137fb910ca4b4e7de245"
     },
-    "downloads/Материалы для дежурного по КПП.pdf": {
-      "bytes": 98227,
-      "sha256": "7b056b4778e161a211545702446704c3cb6b8f314b7a782a0240e543287e2105"
-    },
-    "downloads/Материалы для офицера.pdf": {
-      "bytes": 111529,
-      "sha256": "c92769be3d1ea6575b7a26db616c6547ec7d97b9ab569a5bcb49e570ffe4d3d3"
-    },
-    "downloads/Материалы для патруля.pdf": {
-      "bytes": 114365,
-      "sha256": "0a5574eb5a1945e7b627c6e420317ab6bb527850c96ba7fb5f0251228caa3f4b"
-    },
-    "downloads/Материалы по профпригодности.pdf": {
-      "bytes": 106867,
-      "sha256": "c8bd4bd16cfcdda14dae1e67471edfc8326abfd873e687f6e9790a325f6ad034"
-    },
-    "downloads/Памятка солдату.pdf": {
-      "bytes": 89024,
-      "sha256": "3dcc477dc95f2fbe5cf05f9671ad4f7fff81e04ef2880067ebd0aa5f5399ed23"
-    },
-    "downloads/Руководство ВПС.pdf": {
-      "bytes": 153259,
-      "sha256": "dfcb91052d10eecd3df0c5b92966be1b1816f5b839e69368fcab26a60d7ff747"
-    },
-    "downloads/Тест дежурного по КПП.pdf": {
-      "bytes": 100753,
-      "sha256": "4365f7de9af070265fde8c4d551c870502a67695b1728b750284ae10e75910e6"
-    },
-    "downloads/Тест офицера.pdf": {
-      "bytes": 131053,
-      "sha256": "9a236a4a55ab31622392dadec093d11212e58de366595af73756e05ac6c9b32f"
-    },
-    "downloads/Тест патруля.pdf": {
-      "bytes": 132045,
-      "sha256": "3a69a993b62e30a272ddd39316be28b5263c64ce670d7e922687810e72250ac4"
-    },
-    "downloads/Тест профпригодности.pdf": {
-      "bytes": 124137,
-      "sha256": "5dda36a9a6adcbca367c7eb33b1bc45c100bb3d7991b197f986f93e27af9d35c"
-    },
-    "downloads/Устный экзамен дежурного по КПП.pdf": {
-      "bytes": 100603,
-      "sha256": "d96e7361ca1c123d16e35c2a666fa0e2f1d6c3aa06455ac342fa8a125502c163"
-    },
     "handbook.md": {
       "bytes": 178,
       "sha256": "ce6844447b98e48f37f474e6ad53ce23314c4ba270e2cb3e11fbb88968744c17"
-    },
-    "images/admission.png": {
-      "bytes": 1941707,
-      "sha256": "2836a4875bff29f6c10a5c7dd54b598524209346f6da1d5b561066c8c3e147c6"
-    },
-    "images/events.png": {
-      "bytes": 2245190,
-      "sha256": "bd9c37ea21fb3350e6997fc5f7538ae27a26b2a82bf02a76315e6f1b345165aa"
-    },
-    "images/points.png": {
-      "bytes": 2101264,
-      "sha256": "3d717f83552832d70bb3aa7f56022b3fad84b30050565e1052c77f72884e6f9b"
-    },
-    "images/promotion.png": {
-      "bytes": 1876153,
-      "sha256": "b8f875a24c7dccbd65bd3875b84d47b8db8600a399e5b62d40d5c6d5880b9a23"
     },
     "officer-study.md": {
       "bytes": 222,
@@ -110,8 +50,8 @@
       "sha256": "ff2ca5338ecf45f0df10b965035723e0f9447273c5d71240c201fe418d7aa8a6"
     },
     "README.md": {
-      "bytes": 14252,
-      "sha256": "e943b29f956ff956034902ebb28be83c0bdff8bd2727f398f503361818afa51d"
+      "bytes": 14535,
+      "sha256": "960bcb5ca96bb732159cdbaccc3f9a4fc6473e784e4147b1ccf70955ff169bca"
     },
     "regulation.md": {
       "bytes": 31197,
@@ -169,6 +109,10 @@
       "bytes": 22683,
       "sha256": "bb2643afb92a1675e7d533e91b8b15411190d14e2ce46b35c41a0518f27f1a67"
     },
+    "Оформление теста офицера.md": {
+      "bytes": 4436,
+      "sha256": "57cdf7beebb6f6f88f79e6af6ef6cf529773565695c1c075eef7f06e6a8f1423"
+    },
     "Памятка солдату.md": {
       "bytes": 3713,
       "sha256": "c8e6d1aaa45ba4e4fa419caa8f47e054d810d5cee0dd882e6139358a64bddea4"
@@ -208,6 +152,70 @@
     "Учебные материалы.md": {
       "bytes": 1583,
       "sha256": "f84422402b0fb10d6c90aedee07b21c38d12dee1f3a22797841d8ee78895c8a9"
+    },
+    "downloads/Материалы для дежурного по КПП.pdf": {
+      "bytes": 98227,
+      "sha256": "7b056b4778e161a211545702446704c3cb6b8f314b7a782a0240e543287e2105"
+    },
+    "downloads/Материалы для офицера.pdf": {
+      "bytes": 111529,
+      "sha256": "c92769be3d1ea6575b7a26db616c6547ec7d97b9ab569a5bcb49e570ffe4d3d3"
+    },
+    "downloads/Материалы для патруля.pdf": {
+      "bytes": 114365,
+      "sha256": "0a5574eb5a1945e7b627c6e420317ab6bb527850c96ba7fb5f0251228caa3f4b"
+    },
+    "downloads/Материалы по профпригодности.pdf": {
+      "bytes": 106867,
+      "sha256": "c8bd4bd16cfcdda14dae1e67471edfc8326abfd873e687f6e9790a325f6ad034"
+    },
+    "downloads/Памятка солдату.pdf": {
+      "bytes": 89024,
+      "sha256": "3dcc477dc95f2fbe5cf05f9671ad4f7fff81e04ef2880067ebd0aa5f5399ed23"
+    },
+    "downloads/Руководство ВПС.pdf": {
+      "bytes": 153259,
+      "sha256": "dfcb91052d10eecd3df0c5b92966be1b1816f5b839e69368fcab26a60d7ff747"
+    },
+    "downloads/Тест дежурного по КПП.pdf": {
+      "bytes": 100753,
+      "sha256": "4365f7de9af070265fde8c4d551c870502a67695b1728b750284ae10e75910e6"
+    },
+    "downloads/Тест офицера.pdf": {
+      "bytes": 131053,
+      "sha256": "9a236a4a55ab31622392dadec093d11212e58de366595af73756e05ac6c9b32f"
+    },
+    "downloads/Тест патруля.pdf": {
+      "bytes": 132045,
+      "sha256": "3a69a993b62e30a272ddd39316be28b5263c64ce670d7e922687810e72250ac4"
+    },
+    "downloads/Тест профпригодности.pdf": {
+      "bytes": 124137,
+      "sha256": "5dda36a9a6adcbca367c7eb33b1bc45c100bb3d7991b197f986f93e27af9d35c"
+    },
+    "downloads/Устный экзамен дежурного по КПП.pdf": {
+      "bytes": 100603,
+      "sha256": "d96e7361ca1c123d16e35c2a666fa0e2f1d6c3aa06455ac342fa8a125502c163"
+    },
+    "images/admission.png": {
+      "bytes": 1941707,
+      "sha256": "2836a4875bff29f6c10a5c7dd54b598524209346f6da1d5b561066c8c3e147c6"
+    },
+    "images/events.png": {
+      "bytes": 2245190,
+      "sha256": "bd9c37ea21fb3350e6997fc5f7538ae27a26b2a82bf02a76315e6f1b345165aa"
+    },
+    "images/points.png": {
+      "bytes": 2101264,
+      "sha256": "3d717f83552832d70bb3aa7f56022b3fad84b30050565e1052c77f72884e6f9b"
+    },
+    "images/promotion.png": {
+      "bytes": 1876153,
+      "sha256": "b8f875a24c7dccbd65bd3875b84d47b8db8600a399e5b62d40d5c6d5880b9a23"
+    },
+    "images/Обложка аттестации офицера.png": {
+      "bytes": 2092823,
+      "sha256": "f0a106c7b0ebd14fff9c06c943c5b06ec08955f75c61ad13db344308612d629a"
     }
   }
 }
