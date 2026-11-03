@@ -611,5 +611,14 @@
     "identical_to": null,
     "received": "2026-10-17",
     "supersedes": "a5412c8f"
+  },
+  {
+    "id": "ee0cd4f3",
+    "title": "Правила криминальных организаций",
+    "category": "rules",
+    "document": "docs/rules/ee0cd4f3.md",
+    "source": "sources/attachments/ee0cd4f3.txt",
+    "sha256": "1aac5420fa7599876692e95a1445af577eb1290b0c2542117c6e3eebb891f02e",
+    "identical_to": null
   }
 ]
