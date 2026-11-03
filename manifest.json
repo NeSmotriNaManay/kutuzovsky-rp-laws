@@ -620,5 +620,14 @@
     "source": "sources/attachments/ee0cd4f3.txt",
     "sha256": "1aac5420fa7599876692e95a1445af577eb1290b0c2542117c6e3eebb891f02e",
     "identical_to": null
+  },
+  {
+    "id": "2d207ca8",
+    "title": "Правила ограблений и похищений",
+    "category": "rules",
+    "document": "docs/rules/2d207ca8.md",
+    "source": "sources/attachments/2d207ca8.txt",
+    "sha256": "7a7b5d0c1204568f68fd1fa90d8d7cd3f213da9be8a1c64480a92603959162fd",
+    "identical_to": null
   }
 ]
